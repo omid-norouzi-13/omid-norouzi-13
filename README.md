@@ -13,7 +13,7 @@ I love building software, exploring new technologies, and turning ideas into rea
 </p>
 
 ---
-
+<!---
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on personal projects and useful developer tools
@@ -22,7 +22,7 @@ I love building software, exploring new technologies, and turning ideas into rea
 - 🚀 I enjoy creating clean, efficient and practical solutions
 - 📚 Always learning and improving my programming skills
 
----
+--->
 
 ## 🛠️ Technologies & Tools
 
