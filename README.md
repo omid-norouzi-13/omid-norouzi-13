@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 <!--
 **omid-norouzi-13/omid-norouzi-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
