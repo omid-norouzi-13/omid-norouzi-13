@@ -50,22 +50,14 @@ My personal website and portfolio.
 Working with WordPress and web technologies.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omid-norouzi-13&show_icons=true&theme=github_dark" />
 </p>
 
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/omid-norouzi-13/omid-norouzi-13/output/snake.svg" />
-</p>
-
----
+----->
 
 ## 📫 Connect With Me
 
