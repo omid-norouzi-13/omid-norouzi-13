@@ -2,11 +2,8 @@
 
 ![snake gif](https://raw.githubusercontent.com/omid-norouzi-13/omid-norouzi-13/output/snake.svg)
 
-<h1 align="center">Hi 👋, I'm Omid Norouzi</h1>
+<h1>Hi 👋, I'm Omid Norouzi</h1>
 
-<h3 align="center">
-A passionate Developer from Iran 🇮🇷
-</h3>
 
 <p align="center">
 I love building software, exploring new technologies, and turning ideas into real projects.
